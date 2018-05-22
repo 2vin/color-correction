@@ -12,7 +12,7 @@ g++ color-correction.cpp -o executable \`pkg-config --cflags --libs opencv\` -st
 (Note: Substitute "/home/2vin/myphoto.jpg" by path of an existing image)
 
 # Results
-Test image    
+Input image    
 ![alt text](https://github.com/2vin/color-correction/blob/master/data/portrait.jpg)
 
 Output Image    
