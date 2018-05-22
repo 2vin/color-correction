@@ -2,7 +2,7 @@
 This repository contains program for color correction of image using OpenCV
 
 # Compile
-g++ color-correction.cpp -o executable \`pkg-config --cflags --libs opencv\` -std=c++11
+g++ color-correct.cpp -o executable \`pkg-config --cflags --libs opencv\` -std=c++11
 
 # Usage
 ./executable image_path output_path
